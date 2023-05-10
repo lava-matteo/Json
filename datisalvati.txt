@@ -1,0 +1,1 @@
+{"meteo": "pioggia", "temperatura": 19, "citta": "Dalmine"}
